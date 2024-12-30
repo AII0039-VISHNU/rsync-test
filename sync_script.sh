@@ -3,7 +3,7 @@
 # Define machines with credentials
 declare -A machines
 machines=(
-    ["161.129.37.99"]="Aggr3gAt3Int3l"
+    ["a.b.c.d"]="xxxxxxx"
 )
 
 # Source and destination
